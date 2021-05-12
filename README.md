@@ -8,4 +8,4 @@ and my favorite programming languages ​​are Javascript ⚛️ and Php 📋 a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrockny)](https://github.com/anuraghazra/github-readme-stats)
 
-![image](https://user-images.githubusercontent.com/82336052/118046407-e9fdca00-b33e-11eb-97dd-095976e75170.png)
+![image](https://user-images.githubusercontent.com/82336052/118046570-1ca7c280-b33f-11eb-9f56-6043669e6777.png)
